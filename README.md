@@ -78,7 +78,7 @@ Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/17ec8d06-3356-4df3-b793-0089d097ec13)
+
 
 
 
@@ -98,9 +98,7 @@ Calculate C class domain network ranges and perform whois queries on them (threa
 Perform reverse lookups on netranges (C class or/and whois netranges) (threaded).
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
-![image](https://github.com/user-attachments/assets/0999c83d-95d2-4bf4-b762-6325e7e54acc)
 
-![image](https://github.com/user-attachments/assets/3d0b9f54-7f2d-4830-9c1b-41cf366cc6ce)
 
 ## smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
@@ -110,7 +108,6 @@ In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
 select any username in the first column of the above file and check the same
 
-![image](https://github.com/user-attachments/assets/ca240ce7-0bc1-4b62-8b97-3e036195ffd0)
 
 ## Telnet for smtp enumeration
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
@@ -118,7 +115,6 @@ telnet <host address> 25 to connect
 and issue appropriate commands
   
 ## Output
- ![image](https://github.com/user-attachments/assets/0a48708c-fff2-4197-bdaa-d4022dc1843a)
 
   
 
