@@ -77,6 +77,7 @@ Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TX
 Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
+![Screenshot 2025-03-14 135719](https://github.com/user-attachments/assets/c2504f21-7b1c-4dfd-a092-78aa56602c8f)
 
 
 
@@ -98,6 +99,9 @@ Calculate C class domain network ranges and perform whois queries on them (threa
 Perform reverse lookups on netranges (C class or/and whois netranges) (threaded).
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
+## OUTPUT 
+![image](https://github.com/user-attachments/assets/23e199a9-cd1a-41c9-b58b-434b399e738b)
+![image](https://github.com/user-attachments/assets/1f40320a-6c88-49ea-a0d0-0238bd8c186c)
 
 
 ## smtp-user-enum
@@ -107,6 +111,8 @@ Username guessing tool primarily for use against the default Solaris SMTP servic
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
 select any username in the first column of the above file and check the same
+## OUTPUT:
+![image](https://github.com/user-attachments/assets/4de173a5-1635-49aa-a4ad-18f4e14d4414)
 
 
 ## Telnet for smtp enumeration
@@ -115,6 +121,8 @@ telnet <host address> 25 to connect
 and issue appropriate commands
   
 ## Output
+![Screenshot 2025-03-14 145928](https://github.com/user-attachments/assets/11958490-af0c-4a2d-b567-abbd6d5b5e05)
+
 
   
 
