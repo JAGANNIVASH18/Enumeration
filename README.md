@@ -32,29 +32,39 @@ Google hacking, also known as Google dorking, is a technique that involves using
 
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
+![WhatsApp Image 2025-03-10 at 11 37 57_d1c06e0a](https://github.com/user-attachments/assets/0e1d33c0-7a87-4ead-b4b3-303c1e867c26)
+
 
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
+![WhatsApp Image 2025-03-10 at 11 37 57_d73b9dcf](https://github.com/user-attachments/assets/5c1026cf-9b6a-423c-9935-0b38ae9afee0)
 
 
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
+![WhatsApp Image 2025-03-10 at 11 37 57_c9b66fb9](https://github.com/user-attachments/assets/2a3f06c0-1625-486e-a63e-93bf7601fcf2)
+
 
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
+![WhatsApp Image 2025-03-10 at 11 37 57_e29dfd77](https://github.com/user-attachments/assets/93c34e18-f871-4413-92fd-7a50bd67de02)
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
+![WhatsApp Image 2025-03-10 at 11 37 57_0483bae5](https://github.com/user-attachments/assets/ee591810-b669-435d-880f-3365090555bb)
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
  
 #DNS Enumeration
+![WhatsApp Image 2025-03-10 at 11 37 57_e6f86487](https://github.com/user-attachments/assets/bae7ccfb-7168-4380-ae63-ecc07e55c9ad)
 
 
 ##DNS Recon
 provides the ability to perform:
+![WhatsApp Image 2025-03-10 at 11 37 57_aee35104](https://github.com/user-attachments/assets/0e7ef622-48cf-4fd0-b0fa-d7b18048f07f)
+
 Check all NS records for zone transfers
 Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
 Perform common SRV Record Enumeration
